@@ -7,12 +7,12 @@ const Ping = () => {
         <span className="flex size-[11px]">
           <span
             className="absolute inline-flex h-full w-full 
-          animate-ping rounded-full bg-pink-500 opacity-75"
+          animate-ping rounded-full bg-primary opacity-75"
           ></span>
 
           <span
             className="relative inline-flex size-[11px] 
-          rounded-full bg-pink-500"
+          rounded-full bg-primary"
           ></span>
         </span>
       </div>
