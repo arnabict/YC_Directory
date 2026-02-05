@@ -16,27 +16,8 @@ A minimal platform to share and discover startup ideas — built with **Next.js 
 
 ## 🛠 Tech Stack
 
-- Next.js 15 + React 19
+- Next.js 15 (canary)
+- React 19
 - Sanity.io CMS
-- NextAuth.js (GitHub OAuth)
-- Tailwind CSS
-
-## 🚀 Getting Started
-
-```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-npm install
-npm run dev
-```
-
-Set up `.env.local` with your credentials:
-
-```env
-NEXTAUTH_URL=
-NEXTAUTH_SECRET=
-GITHUB_ID=
-GITHUB_SECRET=
-SANITY_PROJECT_ID=
-SANITY_DATASET=
-```
+- NextAuth.js
+- Tailwind CSS v3
